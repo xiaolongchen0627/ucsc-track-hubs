@@ -1,4 +1,4 @@
-track bam1
+track bam
 bigDataUrl tmp1.bam
 #Note: There is a corresponding fileName.bam.bai in the same above directory 
 shortLabel BAM example
