@@ -1,0 +1,5 @@
+hub MyHubsNameWithoutSpacestest1
+shortLabel testline2
+longLabel testlines3
+genomesFile genomes.txt
+email  xiaolong.chen@stjude.org

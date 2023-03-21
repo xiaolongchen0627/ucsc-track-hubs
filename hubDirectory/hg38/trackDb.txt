@@ -1,0 +1,7 @@
+track bam1
+bigDataUrl tmp1.bam
+#Note: There is a corresponding fileName.bam.bai in the same above directory 
+shortLabel BAM example
+longLabel This BAM file is an example from the ENCODE RNA-seq CSHL Track
+type bam
+visibility dense
